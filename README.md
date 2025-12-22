@@ -84,11 +84,11 @@ Progress over perfection — fundamentals always come first.
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevMehta&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=9ca3af&icon_color=7c3aed" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TEKURU-ZENO&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=9ca3af&icon_color=7c3aed" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DevMehta&hide_border=true&background=00000000&ring=7c3aed&fire=7c3aed&currStreakLabel=9ca3af&sideLabels=9ca3af&dates=6b7280" />
+  <img src="https://streak-stats.demolab.com?user=TEKURU-ZENO&hide_border=true&background=00000000&ring=7c3aed&fire=7c3aed&currStreakLabel=9ca3af&sideLabels=9ca3af&dates=6b7280" />
 </p>
 
 ---
