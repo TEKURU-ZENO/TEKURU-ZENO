@@ -1,87 +1,113 @@
 <h1 align="center">Dev Mehta</h1>
 
 <p align="center">
-  <b>Software Engineer • Builder • Systems Thinker</b><br/>
-  SWE (Frontend & Backend) · AI/ML · Cloud & DevOps · Cybersecurity
+  <b>AI Systems Engineer • Research-Oriented Builder</b><br/>
+  LLMs · GNNs · Distributed ML · Biomedical AI
 </p>
 
 <p align="center">
-  Calm. Intentional. Built to last.
+  Calm. Intentional. Built to understand systems — not just run them.
 </p>
 
 ---
 
-## About Me
+## 🧠 About Me
 
-I’m a software engineer who enjoys building things properly — not just making them work, but making them **clean, scalable, and thoughtful**.
+I build **AI systems that combine reasoning, structure, and real-world constraints**.
 
-I care deeply about:
-- production-grade software engineering  
-- strong system design & architecture  
-- subtle, meaningful UI/UX  
-- understanding systems end-to-end  
+My work sits at the intersection of:
+- **LLMs (BioGPT, Transformers)**
+- **Graph Neural Networks & Causal Inference**
+- **Distributed ML Systems**
+- **Biomedical AI & Explainability**
 
-I believe good software feels calm, confident, and intentional.
-
----
-
-## Areas of Focus
-
-- **Software Engineering** — frontend & backend systems  
-- **AI / ML** — applied intelligence, not buzzwords  
-- **Cloud & DevOps** — deployment, scalability, reliability  
-- **Cybersecurity** — understanding systems by breaking them  
-
-Always learning. Always refining.
+I’m particularly interested in:
+> how models behave, where they fail, and how to make them more reliable and interpretable.
 
 ---
 
-## Tech Stack
+## 🚀 Featured Work
 
-**Languages**
-- JavaScript / TypeScript
-- Python
-- SQL
+### 🧬 BioGPT-DDI
+**LLM-based clinical AI system for drug interaction prediction**
+
+- Generates **explainable clinical reports**
+- Combines **LLM reasoning + biomedical datasets**
+- Built with **PyTorch, HuggingFace, FastAPI, React**
+- Designed for **real-time inference & structured outputs**
+
+---
+
+### 🧠 ATLAS
+**Causal GNN-based biological digital twin**
+
+- Simulates **cellular behavior under gene perturbations**
+- Implements **counterfactual reasoning (do-operator)**
+- Built using **PyTorch Geometric, Scanpy**
+- Focus on **explainability in biological systems**
+
+---
+
+### ⚡ AutoNAS *(Work in Progress)*
+**Distributed AutoML system for neural architecture search**
+
+- Scalable training using **Ray**
+- Multi-objective optimization (**accuracy, latency, size**)
+- Exploring **parallel search + pipeline orchestration**
+
+---
+
+## 🧩 Areas of Focus
+
+- **AI Systems Engineering** — building end-to-end intelligent systems  
+- **LLMs & Reasoning** — structured outputs, evaluation, interpretability  
+- **Graph ML & Causality** — modeling complex relationships  
+- **Distributed ML** — scaling training & experimentation  
+- **Biomedical AI** — high-stakes, real-world applications  
+
+---
+
+## 🛠 Tech Stack
+
+**Core**
+- Python, JavaScript, C++
+
+**AI / ML**
+- PyTorch, HuggingFace Transformers  
+- Graph Neural Networks  
+- Causal Inference  
+- Time-Series ML  
+
+**Systems & Backend**
+- FastAPI, REST APIs  
+- Kafka, Redis  
+- Microservices  
+
+**Cloud & DevOps**
+- Docker, Kubernetes  
+- Ray, MLflow  
 
 **Frontend**
-- React
-- Vite
-- Tailwind CSS
-- Framer Motion
-
-**Backend & Systems**
-- APIs
-- Databases
-- Auth & security fundamentals
-
-**Cloud / DevOps**
-- CI/CD pipelines
-- Environment configs
-- Performance & reliability
+- React, Tailwind CSS  
 
 ---
 
-## Selected Projects
+## 📚 Publications
 
-- **Portfolio** — dark royal UI, subtle motion, production-grade frontend architecture  
-- **AI / ML Systems** — applied models with real-world constraints  
-- **Full-Stack Apps** — clean APIs, scalable structure, thoughtful UX  
-
-(More detailed write-ups coming soon.)
+- **BioGPT-DI** — Drug Interaction Prediction with Explainable Reports (IJIREEICE)  
+- **ATLAS** — Causal Digital Twin for Single-Cell Simulation (Wiley ICISD 2026)  
+- **CEREP** — Explainable Multi-Omics Reasoning Engine (IJARCCE)  
 
 ---
 
-## Philosophy
+## 🧠 Philosophy
 
-> Don’t wait for motivation.  
-> Build momentum.  
-> Ship, learn, iterate.
-
-Progress over perfection — fundamentals always come first.
+> Build systems that don’t just work —  
+> understand why they work, and where they break.
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TEKURU-ZENO&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=9ca3af&icon_color=7c3aed" />
@@ -93,12 +119,12 @@ Progress over perfection — fundamentals always come first.
 
 ---
 
-## Let’s Connect
+## 🤝 Connect
 
-- LinkedIn: [https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/dev-mehta-1861bb2a0/)  
-- Portfolio: [https://YOUR_PORTFOLIO_LINK ](https://portfolio-dm-cyan.vercel.app/) 
-- Email: mailto:devmehta060505@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/dev-mehta-1861bb2a0/  
+- Portfolio: https://portfolio-dm-cyan.vercel.app/  
+- Email: devmehta060505@gmail.com  
 
 <p align="center">
-  <i>Built with intent — calm, confident, and engineered to last.</i>
+  <i>Engineered with intent — focused on depth, clarity, and systems that scale.</i>
 </p>
