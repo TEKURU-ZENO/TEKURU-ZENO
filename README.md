@@ -6,7 +6,7 @@
 
 *"Designing autonomous intelligence for science, infrastructure and the future of reasoning."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Agentic+AI+Systems;AI+Infrastructure;Computational+Biology;Digital+Twins;Distributed+Machine+Learning;Building+Systems+That+Think." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Agentic+AI+Systems;AI+Infrastructure;System+Design;Computational+Biology;Digital+Twins;Distributed+Machine+Learning;Building+Systems+That+Think." />
 
 </div>
 
