@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24">
+  <style>
+    .run { animation: run 3s linear infinite; }
+    .blip { animation: blip 1.3s steps(1) infinite; }
+    @keyframes run { 0%{transform:translateX(-160px)} 100%{transform:translateX(900px)} }
+    @keyframes blip { 0%,60%{opacity:1} 61%,100%{opacity:0.2} }
+  </style>
+  <rect x="0" y="11" width="900" height="1.5" fill="#ff2a6d" opacity="0.35"/>
+  <rect class="run" x="0" y="10" width="160" height="3.5" fill="#05d9e8"/>
+  <rect x="0" y="6" width="10" height="12" fill="#ff2a6d" class="blip"/>
+  <rect x="890" y="6" width="10" height="12" fill="#05d9e8" class="blip"/>
+  <text x="450" y="9" text-anchor="middle" fill="#9a8bc2" opacity="0.6" font-family="'Courier New', monospace" font-size="8" letter-spacing="4">// // //</text>
+</svg>
